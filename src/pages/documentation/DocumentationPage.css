@@ -1,0 +1,19 @@
+.video-fieldset-style {
+    border: 2px solid #92c7ff;
+    border-radius: 8px;
+    /*margin-top: 12px;*/
+    padding: 12px;
+    margin: 24px;
+}
+
+.video-fieldset-style legend {
+    width: auto !important;
+}
+
+.video-fieldset-legend-style {
+    color: #535353;
+    font-style: italic;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 16px;
+}

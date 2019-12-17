@@ -1,0 +1,2031 @@
+.menu-drawer-button-closed button {
+    position: fixed;
+    top: 46%;
+    right: -71px;
+    transform: rotate(-90deg);
+    font-size: 22px;
+    height: 50px;
+}
+
+.menu-drawer-button-open button {
+    position: absolute;
+    top: 46%;
+    left: -121px;
+    z-index: 99999;
+    transform: rotate(-90deg);
+    font-size: 22px;
+    height: 50px;
+}
+
+.display-none {
+    display: none !important;
+}
+
+.user-menu {
+    cursor: pointer;
+}
+
+.user-menu p {
+    font-weight: 600;
+}
+
+.user-sub-menu {
+    padding-left: 15px !important;
+    cursor: pointer;
+}
+
+.user-sub-menu p {
+    font-weight: 400 !important;
+}
+
+.user-manuals-container span {
+    line-height: 25px;
+    /*word-break: break-all;*/
+}
+
+.user-manuals-container .display-inline-flex-li:before {
+    margin-top: 5px;
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-3.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-3 0
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-2 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_ywm5f6cz7q5v-4 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-1 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_scv9v1tzukxk-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-8.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-8 0
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-6 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-6
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-3 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-3
+}
+
+.user-manuals-container .lst-kix_7vwnacsc6f9r-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-4 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-4, lower-latin) ". "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-6 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-6, decimal) ". "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-0 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-0, decimal) ". "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-2 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-2, lower-roman) ". "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-8 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-8, lower-roman) ". "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-8 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-4 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-6 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_7vwnacsc6f9r-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-0 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-7 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-7
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-5 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-1 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-1
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-6 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-3 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_13k8bfib2ndb-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wc3qux1kmi7l-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-2 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-2
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-8 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-0 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-2 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-3 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-8 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-8
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-0.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-0 0
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-6.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-6 0
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-1.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-1 0
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-0 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-8 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_1wg9lk32rzyi-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-2 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-2 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_uk5236vcb6hu-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_yz4ro2rgtjho-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-7.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-7 0
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-0 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-0
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-5 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-5, lower-roman) ". "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-3 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-3, decimal) ". "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-7 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-7, lower-latin) ". "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-1 > li:before {
+    content: "" counter(lst-ctn-kix_56at4mhm54ak-1, lower-latin) ". "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-4 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-4
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_56at4mhm54ak-5 > li {
+    counter-increment: lst-ctn-kix_56at4mhm54ak-5
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wc3qux1kmi7l-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-2.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-2 0
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_cog9csbtc1k3-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-8 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_1wg9lk32rzyi-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-0 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-1 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_wn1z6i1ipq6l-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-6 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-5.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-5 0
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-0 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_13k8bfib2ndb-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_scv9v1tzukxk-4 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_wn1z6i1ipq6l-2 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-3 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-4 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-5 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-6 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-7 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-8 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_yz4ro2rgtjho-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-0 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_ywm5f6cz7q5v-8 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-1 {
+    list-style-type: none
+}
+
+.user-manuals-container ul.lst-kix_cog9csbtc1k3-2 {
+    list-style-type: none
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-7 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-1 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-5 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol.lst-kix_56at4mhm54ak-4.start {
+    counter-reset: lst-ctn-kix_56at4mhm54ak-4 0
+}
+
+.user-manuals-container .lst-kix_uk5236vcb6hu-3 > li:before {
+    content: "-  "
+}
+
+.user-manuals-container ol {
+    margin: 0;
+    padding: 0
+}
+
+.user-manuals-container table td, table th {
+    padding: 0
+}
+
+.user-manuals-container .c0 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #00ff00;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 65.8pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c67 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #cccccc;
+    vertical-align: bottom;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 34.9pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c58 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #b6d7a8;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 77.4pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c87 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #cccccc;
+    vertical-align: bottom;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24.7pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c66 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #ffff00;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 48.6pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c60 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #ff9900;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 49.3pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c27 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #cccccc;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24.7pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c57 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #ff0000;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 70.6pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c53 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #cccccc;
+    vertical-align: bottom;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 36.3pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c75 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #cccccc;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 41.1pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c92 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #cccccc;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 35.6pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c14 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #cccccc;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c86 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #cccccc;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 34.3pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c76 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #cccccc;
+    vertical-align: bottom;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    background-color: #efefef;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 31.5pt;
+    border-top-color: #cccccc;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c6 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 243.3pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c51 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 36.3pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c33 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 34.3pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c25 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 0pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 31.5pt;
+    border-top-color: #808080;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c16 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 41.1pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c22 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 108.5pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c97 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 139.8pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c65 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 31.5pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c62 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 99.7pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c55 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 0pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 34.9pt;
+    border-top-color: #808080;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c50 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c13 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 0pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24.7pt;
+    border-top-color: #808080;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c74 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 35.6pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c56 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 34.9pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c44 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: bottom;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 139.8pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c35 {
+    border-right-style: solid;
+    padding: 2pt 2pt 2pt 2pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 24.7pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c85 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #cccccc;
+    border-top-width: 0pt;
+    border-right-width: 1pt;
+    border-left-color: #000000;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 36.3pt;
+    border-top-color: #808080;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c89 {
+    border-right-style: solid;
+    padding: 5pt 5pt 5pt 5pt;
+    border-bottom-color: #000000;
+    border-top-width: 1pt;
+    border-right-width: 1pt;
+    border-left-color: #808080;
+    vertical-align: top;
+    border-right-color: #000000;
+    border-left-width: 0pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    width: 139.8pt;
+    border-top-color: #000000;
+    border-bottom-style: solid
+}
+
+.user-manuals-container .c1 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 12pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-style: normal
+}
+
+.user-manuals-container .c17 {
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-style: normal
+}
+
+.user-manuals-container .c5 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-style: normal
+}
+
+.user-manuals-container .c15 {
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 11pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-style: normal
+}
+
+.user-manuals-container .c83 {
+    padding-top: 7pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .c59 {
+    padding-top: 1pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .c81 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.1;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+.user-manuals-container .c95 {
+    padding-top: 9pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .c34 {
+    padding-top: 24pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+.user-manuals-container .c40 {
+    padding-top: 8pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .c3 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+.user-manuals-container .c2 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    orphans: 2;
+    widows: 2;
+    text-align: center
+}
+
+.user-manuals-container .c12 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.1500000000000001;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .c38 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    orphans: 2;
+    widows: 2;
+    text-align: justify
+}
+
+.user-manuals-container .c39 {
+    -webkit-text-decoration-skip: none;
+    color: #1155cc;
+    text-decoration: underline;
+    vertical-align: baseline;
+    text-decoration-skip-ink: none;
+    font-style: normal
+}
+
+.user-manuals-container .c64 {
+    border-spacing: 0;
+    border-collapse: collapse;
+    /*margin-right: auto*/
+    width: 100%;
+}
+
+.user-manuals-container .c84 {
+    -webkit-text-decoration-skip: none;
+    color: #1155cc;
+    text-decoration: underline;
+    text-decoration-skip-ink: none
+}
+
+.user-manuals-container .c96 {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+    line-height: 1.15;
+    text-align: left
+}
+
+.user-manuals-container .c79 {
+    color: #f2f2f2;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.user-manuals-container .c36 {
+    color: #002060;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.user-manuals-container .c42 {
+    color: #2f5496;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.user-manuals-container .c82 {
+    color: #1f4e79;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.user-manuals-container .c7 {
+    background-color: #ffffff;
+    font-size: 12pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 700
+}
+
+.user-manuals-container .c23 {
+    color: #000000;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-style: normal
+}
+
+.user-manuals-container .c69 {
+    color: #000000;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.user-manuals-container .c10 {
+    font-size: 12pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400
+}
+
+.user-manuals-container .c19 {
+    font-size: 7pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400
+}
+
+.user-manuals-container .c70 {
+    margin-left: 1pt;
+    text-indent: -1pt;
+    margin-right: 21pt
+}
+
+.user-manuals-container .c78 {
+    color: #7030a0;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.user-manuals-container .c8 {
+    font-size: 12pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 700
+}
+
+.user-manuals-container .c90 {
+    color: #00b050;
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.user-manuals-container .c21 {
+    padding: 0;
+    margin: 0
+}
+
+.user-manuals-container .c94 {
+    text-decoration: none;
+    vertical-align: baseline
+}
+
+.user-manuals-container .c32 {
+    vertical-align: sub;
+    color: #72c3d3
+}
+
+.user-manuals-container .c30 {
+    margin-left: 36pt;
+    padding-left: 0pt
+}
+
+.user-manuals-container .c88 {
+    max-width: 451.4pt;
+    padding: 72pt 72pt 72pt 72pt
+}
+
+.user-manuals-container .c49 {
+    color: inherit;
+    text-decoration: inherit
+}
+
+.user-manuals-container .c68 {
+    height: 50pt
+}
+
+.user-manuals-container .c72 {
+    margin-right: 5pt
+}
+
+.user-manuals-container .c63 {
+    height: 91pt
+}
+
+.user-manuals-container .c20 {
+    margin-left: 32pt
+}
+
+.user-manuals-container .c91 {
+    background-color: #ffff00
+}
+
+.user-manuals-container .c28 {
+    margin-right: 6pt
+}
+
+.user-manuals-container .c54 {
+    margin-right: 4pt
+}
+
+.user-manuals-container .c77 {
+    height: 52pt
+}
+
+.user-manuals-container .c71 {
+    font-size: 10pt
+}
+
+.user-manuals-container .c18 {
+    height: 11pt
+}
+
+.user-manuals-container .c48 {
+    color: #2f5597
+}
+
+.user-manuals-container .c9 {
+    height: 17pt
+}
+
+.user-manuals-container .c29 {
+    margin-left: 75pt
+}
+
+.user-manuals-container .c45 {
+    margin-right: 19pt
+}
+
+.user-manuals-container .c61 {
+    font-size: 12pt
+}
+
+.user-manuals-container .c4 {
+    margin-left: 27pt
+}
+
+.user-manuals-container .c52 {
+    height: 85pt
+}
+
+.user-manuals-container .c43 {
+    height: 65pt
+}
+
+.user-manuals-container .c73 {
+    margin-right: 14pt
+}
+
+.user-manuals-container .c47 {
+    color: #2f5496
+}
+
+.user-manuals-container .c46 {
+    height: 118pt
+}
+
+.user-manuals-container .c24 {
+    margin-left: 68pt
+}
+
+.user-manuals-container .c93 {
+    height: 37pt
+}
+
+.user-manuals-container .c11 {
+    background-color: #ffffff
+}
+
+.user-manuals-container .c26 {
+    margin-left: 34pt
+}
+
+.user-manuals-container .c80 {
+    background-color: #1f4e79
+}
+
+.user-manuals-container .c31 {
+    height: 64pt
+}
+
+.user-manuals-container .c41 {
+    height: 31pt
+}
+
+.user-manuals-container .c37 {
+    font-style: italic
+}
+
+.user-manuals-container .title {
+    padding-top: 0pt;
+    color: #000000;
+    font-size: 26pt;
+    padding-bottom: 3pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .subtitle {
+    padding-top: 0pt;
+    color: #666666;
+    font-size: 15pt;
+    padding-bottom: 16pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container li {
+    color: #000000;
+    font-size: 11pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.user-manuals-container p {
+    margin: 0;
+    color: #000000;
+    font-size: 11pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.user-manuals-container h1 {
+    padding-top: 20pt;
+    color: #000000;
+    font-size: 20pt;
+    padding-bottom: 6pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container h2 {
+    padding-top: 18pt;
+    color: #000000;
+    font-size: 16pt;
+    padding-bottom: 6pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container h3 {
+    padding-top: 16pt;
+    color: #434343;
+    font-size: 14pt;
+    padding-bottom: 4pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container h4 {
+    padding-top: 14pt;
+    color: #666666;
+    font-size: 12pt;
+    padding-bottom: 4pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container h5 {
+    padding-top: 12pt;
+    color: #666666;
+    font-size: 11pt;
+    padding-bottom: 4pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container h6 {
+    padding-top: 12pt;
+    color: #666666;
+    font-size: 11pt;
+    padding-bottom: 4pt;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    line-height: 1.15;
+    page-break-after: avoid;
+    font-style: italic;
+    orphans: 2;
+    widows: 2;
+    text-align: left
+}
+
+.user-manuals-container .information-span {
+    font-weight: 600;
+}
+
+.user-manuals-container .information-block {
+    padding-left: 30px !important;
+}
+
+.user-manuals-container .information-block-content {
+    padding-left: 30px !important;
+}
